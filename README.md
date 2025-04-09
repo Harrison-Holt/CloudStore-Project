@@ -15,8 +15,8 @@ Users can register, browse items, place orders, and receive downloadable receipt
 ## 🌐 Live Demo
 
 - **Frontend**: https://cloudstore.harrisonholt.dev
-- **API**: https://api.harrisonholt.dev *(protected by Cognito)*
-- **GitHub**: [github.com/harrisonholt/cloudstore2.0](https://github.com/harrisonholt/cloudstore2.0) (private for now)
+- **API**: https://api.harrisonholt.dev *(protected by Cognito)* 
+- **GitHub**: [github.com/harrisonholt/cloudstore2.0](https://github.com/Harrison-Holt/CloudStore-Project.git)
 
 ---
 
