@@ -171,7 +171,7 @@ cloudstore2.0/
 - DevOps Pro Exam: *April 16, 2025*  
 - 💼 Open to cloud/backend roles in **Atlanta** or **remote**  
 
-🔗 [Portfolio](https://harrisonholt.dev) | [LinkedIn](https://www.linkedin.com/in/harrisonholt) | hholt2901@gmail.com
+🔗 [Portfolio](https://harrisonholt.dev) | [LinkedIn](https://www.linkedin.com/in/harrison-holt-18a703202/) | hholt2901@gmail.com
 
 ---
 
